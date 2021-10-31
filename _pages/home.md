@@ -1,10 +1,10 @@
 ---
 layout: default
-urltitle:  "NRNS"
+urltitle:  "Test"
 title: "No RL, No Simulation: Learning to Navigate without Navigating"
 categories: deep learning, computer vision, machine learning, robotics, navigation
 permalink: /
-favicon: /static/img/nrns/favicon2.png
+favicon: /static/img/test/favicon2.png
 ---
 
 <br>
@@ -15,7 +15,7 @@ favicon: /static/img/nrns/favicon2.png
 
   <div class="col-xs-12 text-center">
       <video width="960" height="360" autoplay="autoplay" controls="controls" muted>
-        <source src="{{site.baseurl}}/static/img/nrns/teaser.mp4" type="video/mp4">
+        <source src="{{site.baseurl}}/static/img/test/teaser.mp4" type="video/mp4">
       </video>
   </div>
 
@@ -23,7 +23,7 @@ favicon: /static/img/nrns/favicon2.png
     <p>
       I am a Computer Science PhD student, at the Georgia Institute of Technology. I work in Dr. James M. Rehg’s lab and my research focuses on using natural language to aid in computer vision tasks. My projects thus far have focused on Visual Question answering and human activity understanding. Before graduate school, I attended Emory University and graduated with my BS in Computer Science in May 2016. At Emory I worked in a Natural Language Processing lab for two years under Dr. Jinho Choi. During my undergraduate carrer I also worked at University of Central Florida’s computer vision lab under Dr. Mubarak Shah.
     </p>
-    <img src="{{site.baseurl}}/static/img/nrns/teaser.jpg" alt="NRNS module">
+    <img src="{{site.baseurl}}/static/img/test/teaser.jpg" alt="Test module">
   </div>
 </div>
 <hr>
@@ -39,20 +39,7 @@ favicon: /static/img/nrns/favicon2.png
     </p>
     <br>
   </div>
-<!-- 
-  <div class="col-xs-12 text-center">
-      <br>
-    <img src="{{site.baseurl}}/static/img/nrns/nrns.jpg" alt="LED Task">
-  </div> -->
 
-  <!-- <div class="col-xs-12 text-center">
-    <br>
-    <h3>
-    <b>
-    The NRNS codebase and models are available at:<br><a class="poplink" href="https://github.com/meera1hahn/NRNS/">github.com/meera1hahn/NRNS/</a>
-    </b>
-    </h3>
-  </div> -->
 </div>
 <hr>
 
@@ -77,15 +64,15 @@ favicon: /static/img/nrns/favicon2.png
     </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
       2021
-      [<a href="{{site.baseurl}}/bib/nrns.bib.txt">Bibtex</a>]
+      [<a href="{{site.baseurl}}/bib/test.bib.txt">Bibtex</a>]
       [<a href="https://arxiv.org/abs/2110.09470">PDF</a>]
-      [<a href="https://github.com//meera1hahn/NRNS">Code</a>]
+      [<a href="https://github.com//meera1hahn/Test">Code</a>]
     </div>
 </div>
 <div class="row">
     <div class="col-xs-12">
         <a href="https://arxiv.org/abs/2110.09470">
-          <img class="thumb" src="{{site.baseurl}}/static/img/nrns/thumb.jpg">
+          <img class="thumb" src="{{site.baseurl}}/static/img/test/thumb.jpg">
         </a>
     </div>
 </div>
@@ -110,7 +97,7 @@ favicon: /static/img/nrns/favicon2.png
 <div class="row">
   <div class="col-md-2 col-md-offset-2 col-sm-3 col-xs-6">
     <a href="https://meerahahn.github.io/">
-      <img class="people-pic" src="/nrns/static/img/people/meera.jpg" />
+      <img class="people-pic" src="/test/static/img/people/meera.jpg" />
     </a>
     <div class="people-name">
       <a href="https://meerahahn.github.io/">Meera Hahn</a><br />
@@ -119,7 +106,7 @@ favicon: /static/img/nrns/favicon2.png
   </div>
   <div class="col-md-2 col-sm-3 col-xs-6">
     <a href="https://devendrachaplot.github.io/">
-      <img class="people-pic" src="/nrns/static/img/people/devendra.jpg" />
+      <img class="people-pic" src="/test/static/img/people/devendra.jpg" />
     </a>
     <div class="people-name">
       <a href="https://devendrachaplot.github.io/">Devendra Chaplot</a><br />
@@ -128,7 +115,7 @@ favicon: /static/img/nrns/favicon2.png
   </div>
   <div class="col-md-2 col-sm-3 col-xs-6">
     <a href="http://www.mustafamukadam.com/">
-      <img class="people-pic" src="/nrns/static/img/people/mustafa.jpg" />
+      <img class="people-pic" src="/test/static/img/people/mustafa.jpg" />
     </a>
     <div class="people-name">
       <a href="http://www.mustafamukadam.com/">Mustafa Mukadam</a><br />
@@ -137,33 +124,13 @@ favicon: /static/img/nrns/favicon2.png
   </div>
   <div class="col-md-2 col-sm-3 col-xs-6">
     <a href="http://www.cc.gatech.edu/~rehg/">
-      <img class="people-pic" src="/nrns/static/img/people/jim.jpg" />
+      <img class="people-pic" src="/test/static/img/people/jim.jpg" />
     </a>
     <div class="people-name">
       <a href="http://www.cc.gatech.edu/~rehg/">James M. Rehg</a><br />
       <affiliation>Georgia Tech</affiliation>
     </div>
   </div>   
-</div>
-<div class="row">
-  <div class="col-md-2 col-md-offset-4 col-sm-4 col-xs-6">
-    <a href="http://shubhtuls.github.io/">
-      <img class="people-pic" src="/nrns/static/img/people/shubham.jpg" />
-    </a>
-    <div class="people-name">
-      <a href="http://shubhtuls.github.io/">Shubham Tulsiani</a><br />
-      <affiliation>Facebook AI Research</affiliation>
-    </div>
-  </div>  
-  <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="http://www.cs.cmu.edu/~abhinavg/" style="border:0;">
-      <img class="people-pic" src="/nrns/static/img/people/abhinav.jpg" />
-    </a>
-    <div class="people-name">
-      <a href="http://www.cs.cmu.edu/~abhinavg/">Abhinav Gupta</a><br />
-      <affiliation>Carnegie Mellon &amp; Facebook AI Research</affiliation>
-    </div>
-  </div>
 </div>
 <hr>
 <div class="row">
