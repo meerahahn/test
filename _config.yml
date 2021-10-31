@@ -1,0 +1,11 @@
+title: Meera Hahn
+email: meerahahn@gatech.edu
+
+baseurl: "/test"
+url: "https://meerahahn.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+
+ga_id: UA-163181097-2
