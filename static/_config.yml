@@ -1,0 +1,12 @@
+title: Where Are You? Localization from Embodied Dialog
+email: meerahahn@gatech.edu
+description: Dialog based cooperative localization task. and dataset between two agents.
+
+baseurl: "/way"
+url: "https://meerahahn.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+
+ga_id: UA-163181097-2

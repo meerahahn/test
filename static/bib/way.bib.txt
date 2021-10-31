@@ -1,0 +1,6 @@
+@article{hahn2020way,
+    title={Where Are You? Localization from Embodied Dialog},
+    author={Meera Hahn and Jacob Krantz and Dhruv Batra and Devi Parikh and James M. Rehg and Stefan Lee and Peter Anderson},
+    booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing},
+    year={2020},
+}
