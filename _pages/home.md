@@ -9,7 +9,7 @@ favicon: /static/img/nrns/favicon2.png
 
 <br>
 
-# NRNS: No RL, No Simulation {#overview}
+# About Me {#home}
 
 <div class="row">
 
@@ -21,7 +21,7 @@ favicon: /static/img/nrns/favicon2.png
 
   <div class="col-xs-12 text-center">
     <p>
-      We pose a simple question: Do we really need active interaction, ground-truth maps or even reinforcement-learning (RL) in order to solve the image-goal navigation task? We propose a self-supervised approach to learn to navigate from only passive videos of roaming and demonstrate the success of this approach on Image-Goal navigation in unseen environments. The No RL, No Simulator (NRNS) is a hierarchical modular approach that builds and maintains a topological map. Using a passively trained distance function and target direction prediction function the agent selects and navigates to sub-goals before terminating at the predicted goal location. We gather passive videos from random walks in simulators and YouTube and use these videos to train the NRNS modules. 
+      I am a Computer Science PhD student, at the Georgia Institute of Technology. I work in Dr. James M. Rehg’s lab and my research focuses on using natural language to aid in computer vision tasks. My projects thus far have focused on Visual Question answering and human activity understanding. Before graduate school, I attended Emory University and graduated with my BS in Computer Science in May 2016. At Emory I worked in a Natural Language Processing lab for two years under Dr. Jinho Choi. During my undergraduate carrer I also worked at University of Central Florida’s computer vision lab under Dr. Mubarak Shah.
     </p>
     <img src="{{site.baseurl}}/static/img/nrns/teaser.jpg" alt="NRNS module">
   </div>
